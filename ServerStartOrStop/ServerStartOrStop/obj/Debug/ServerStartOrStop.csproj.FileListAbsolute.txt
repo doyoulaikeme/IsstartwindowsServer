@@ -1,0 +1,51 @@
+C:\Users\WH09\Desktop\ServerDemo\ServerStartOrStop\ServerStartOrStop\bin\Debug\ServerStartOrStop.exe
+C:\Users\WH09\Desktop\ServerDemo\ServerStartOrStop\ServerStartOrStop\bin\Debug\ServerStartOrStop.pdb
+C:\Users\WH09\Desktop\ServerDemo\ServerStartOrStop\ServerStartOrStop\obj\Debug\ServerStartOrStop.Form1.resources
+C:\Users\WH09\Desktop\ServerDemo\ServerStartOrStop\ServerStartOrStop\obj\Debug\ServerStartOrStop.Properties.Resources.resources
+C:\Users\WH09\Desktop\ServerDemo\ServerStartOrStop\ServerStartOrStop\obj\Debug\ServerStartOrStop.csproj.GenerateResource.Cache
+C:\Users\WH09\Desktop\ServerDemo\ServerStartOrStop\ServerStartOrStop\obj\Debug\ServerStartOrStop.exe
+C:\Users\WH09\Desktop\ServerDemo\ServerStartOrStop\ServerStartOrStop\obj\Debug\ServerStartOrStop.pdb
+C:\Users\WH09\Desktop\ServerDemo\ServerStartOrStop\ServerStartOrStop\bin\Debug\ServerStartOrStop.exe.config
+D:\bkc20\ServerStartOrStop\ServerStartOrStop\bin\Debug\ServerStartOrStop.exe.config
+D:\bkc20\ServerStartOrStop\ServerStartOrStop\obj\Debug\ServerStartOrStop.exe
+D:\bkc20\ServerStartOrStop\ServerStartOrStop\obj\Debug\ServerStartOrStop.pdb
+D:\bkc20\ServerStartOrStop\ServerStartOrStop\bin\Debug\ServerStartOrStop.exe
+D:\bkc20\ServerStartOrStop\ServerStartOrStop\bin\Debug\ServerStartOrStop.pdb
+D:\bkc20\ServerStartOrStop\ServerStartOrStop\obj\Debug\ServerStartOrStop.Form1.resources
+D:\bkc20\ServerStartOrStop\ServerStartOrStop\obj\Debug\ServerStartOrStop.Properties.Resources.resources
+D:\bkc20\ServerStartOrStop\ServerStartOrStop\obj\Debug\ServerStartOrStop.csproj.GenerateResource.Cache
+D:\bkc20\ServerStartOrStop\ServerStartOrStop\bin\Debug\log4net.dll
+D:\bkc20\ServerStartOrStop\ServerStartOrStop\bin\Debug\log4net.xml
+E:\20服务器\ServerStartOrStop\ServerStartOrStop\bin\Debug\ServerStartOrStop.exe.config
+E:\20服务器\ServerStartOrStop\ServerStartOrStop\obj\Debug\ServerStartOrStop.exe
+E:\20服务器\ServerStartOrStop\ServerStartOrStop\obj\Debug\ServerStartOrStop.pdb
+E:\20服务器\ServerStartOrStop\ServerStartOrStop\bin\Debug\ServerStartOrStop.exe
+E:\20服务器\ServerStartOrStop\ServerStartOrStop\bin\Debug\ServerStartOrStop.pdb
+E:\20服务器\ServerStartOrStop\ServerStartOrStop\bin\Debug\log4net.dll
+E:\20服务器\ServerStartOrStop\ServerStartOrStop\bin\Debug\log4net.xml
+E:\20服务器\ServerStartOrStop\ServerStartOrStop\obj\Debug\ServerStartOrStop.Form1.resources
+E:\20服务器\ServerStartOrStop\ServerStartOrStop\obj\Debug\ServerStartOrStop.Properties.Resources.resources
+E:\20服务器\ServerStartOrStop\ServerStartOrStop\obj\Debug\ServerStartOrStop.csproj.GenerateResource.Cache
+E:\20服务器\ServerStartOrStop\ServerStartOrStop\obj\Debug\ServerStartOrStop.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ServerStartOrStop\ServerStartOrStop\bin\Debug\ServerStartOrStop.exe.config
+C:\Users\Administrator\Desktop\ServerStartOrStop\ServerStartOrStop\obj\Debug\ServerStartOrStop.exe
+C:\Users\Administrator\Desktop\ServerStartOrStop\ServerStartOrStop\obj\Debug\ServerStartOrStop.pdb
+C:\Users\Administrator\Desktop\ServerStartOrStop\ServerStartOrStop\bin\Debug\ServerStartOrStop.exe
+C:\Users\Administrator\Desktop\ServerStartOrStop\ServerStartOrStop\bin\Debug\ServerStartOrStop.pdb
+C:\Users\Administrator\Desktop\ServerStartOrStop\ServerStartOrStop\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\ServerStartOrStop\ServerStartOrStop\bin\Debug\log4net.xml
+C:\Users\Administrator\Desktop\ServerStartOrStop\ServerStartOrStop\obj\Debug\ServerStartOrStop.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ServerStartOrStop\ServerStartOrStop\obj\Debug\ServerStartOrStop.Form1.resources
+C:\Users\Administrator\Desktop\ServerStartOrStop\ServerStartOrStop\obj\Debug\ServerStartOrStop.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ServerStartOrStop\ServerStartOrStop\obj\Debug\ServerStartOrStop.csproj.GenerateResource.Cache
+E:\新建文件夹 (2)\ServerStartOrStop\ServerStartOrStop\bin\Debug\ServerStartOrStop.exe.config
+E:\新建文件夹 (2)\ServerStartOrStop\ServerStartOrStop\bin\Debug\ServerStartOrStop.exe
+E:\新建文件夹 (2)\ServerStartOrStop\ServerStartOrStop\bin\Debug\ServerStartOrStop.pdb
+E:\新建文件夹 (2)\ServerStartOrStop\ServerStartOrStop\bin\Debug\log4net.dll
+E:\新建文件夹 (2)\ServerStartOrStop\ServerStartOrStop\bin\Debug\log4net.xml
+E:\新建文件夹 (2)\ServerStartOrStop\ServerStartOrStop\obj\Debug\ServerStartOrStop.csprojResolveAssemblyReference.cache
+E:\新建文件夹 (2)\ServerStartOrStop\ServerStartOrStop\obj\Debug\ServerStartOrStop.Form1.resources
+E:\新建文件夹 (2)\ServerStartOrStop\ServerStartOrStop\obj\Debug\ServerStartOrStop.Properties.Resources.resources
+E:\新建文件夹 (2)\ServerStartOrStop\ServerStartOrStop\obj\Debug\ServerStartOrStop.csproj.GenerateResource.Cache
+E:\新建文件夹 (2)\ServerStartOrStop\ServerStartOrStop\obj\Debug\ServerStartOrStop.exe
+E:\新建文件夹 (2)\ServerStartOrStop\ServerStartOrStop\obj\Debug\ServerStartOrStop.pdb

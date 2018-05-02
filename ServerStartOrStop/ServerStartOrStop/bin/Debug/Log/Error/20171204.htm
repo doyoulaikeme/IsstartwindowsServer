@@ -1,0 +1,11 @@
+<HR COLOR=red>
+时间：2017-12-04 16:25:14,270 [1] <BR>
+级别：ERROR <BR>
+类：ServerStartOrStop.Form1 [(null)] <BR>
+在计算机“.”上没有找到服务 ExpertDiagnosisExchangeServer。 <BR>
+ <HR Size=1>System.InvalidOperationException: 在计算机“.”上没有找到服务 ExpertDiagnosisExchangeServer。 ---> System.ComponentModel.Win32Exception: 指定的服务未安装。
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.ServiceProcess.ServiceController.GenerateNames()
+   在 System.ServiceProcess.ServiceController.get_ServiceName()
+   在 ServerStartOrStop.Form1.AddGroupBox(String[] serverNames) 位置 c:\Users\Administrator\Desktop\ServerStartOrStop\ServerStartOrStop\Form1.cs:行号 252
+   在 ServerStartOrStop.Form1..ctor() 位置 c:\Users\Administrator\Desktop\ServerStartOrStop\ServerStartOrStop\Form1.cs:行号 45
